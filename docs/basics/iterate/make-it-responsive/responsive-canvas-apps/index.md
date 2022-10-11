@@ -10,7 +10,7 @@ After you make that choice, you can make a few more choices if you select Settin
 
 Those choices underlie every other choice you make as you design screen layouts. If your app runs on a device of a different size or on the web, your entire layout scales to fit the screen where the app is running. If an app designed for a phone runs in a large browser window, for example, the app scales to compensate and looks oversized for its space. The app can't take advantage of the additional pixels by showing more controls or more content.
 
-If you create a responsive layout, controls can respond to different devices or window sizes, making various experiences feel more natural. To achieve responsive layout, you adjust some settings and write expressions throughout your app.
+If you create a responsive layout, controls can respond to different devices or window sizes, making various experiences feel more natural. To achieve a responsive layout, you adjust some settings and write expressions throughout your app.
 :::
 
 ## Make the Gallery adjust to current width
