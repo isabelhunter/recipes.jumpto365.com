@@ -10,24 +10,24 @@ sidebar_position: 99
 ![](2022-10-11-08-20-04.png)
 
 ## Comment field greyed out
-### Q: The feedback is field is disabled ?
-### A: You need to Sign in with GitHub to enabled the comment field.
+### Q: The feedback field is disabled?
+### A: You need to Sign in with GitHub to enable the comment field.
 
 ![](2022-10-11-08-23-18.png)
 
 ## What is GitHub?
 ### Q: Sign in with GitHub, what is that?
-### A: GitHub is a platform for developers to collaborate on code. 
+### A: GitHub is a platform for developers to collaborate on coding projects. 
 
 You can read more about GitHub here: [Link to more information about GitHub](https://www.w3schools.com/whatis/whatis_github.asp) 
 
-## How to I get a GitHub account?
+## How do I get a GitHub account?
 ### Q: I don't have a GitHub account, how do I get one?
 ### A: You can create a GitHub account here: 
 
 [Link to GitHub sign up](https://github.com/join) 
 
-For user name figure something that is easy to remember and that you can use across different platforms. The Email address can be your work email address or a personal email address. Password should be a strong password, you can use a password manager to generate a strong password.
+For your user name, use something that's easy to remember and that you can use across different platforms. The Email address can be your work email address or a personal email address. Your password should be strong, you can use a password manager to generate a strong password.
 
 ![](2022-10-11-08-33-25.png)
 
