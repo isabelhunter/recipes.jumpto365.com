@@ -1,6 +1,19 @@
-# Reusability
+---
+draft: true
+---
+# "Components"
 
-The `KISS´ principle is a good starting point for designing your app. However, you will find that you will need to reuse components in your app. This is especially true if you are building a large app. Reusing components will help you to reduce the amount of code you need to write and maintain. It will also help you to reduce the amount of time it takes to build your app.
+Components are the building blocks of your application. They are the smallest unit of code that can be reused and shared. They are also the most independent unit of code. A component should be able to exist on its own without the need for any context from the rest of the application. This is a very important concept to understand when building a component based application.
+
+:::info Existing on its own
+A component should be able to exist on its own without the need for any context from the rest of the application.
+:::
+
+:::info Easy to share
+The `Easy to share` part is very important. If you can't share your component, it's not a component. It's just a piece of code. 
+:::
+
+
 
 ## Components in PowerApps
 
