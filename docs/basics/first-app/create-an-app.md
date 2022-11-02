@@ -4,29 +4,29 @@ tags: [Review]
 ---
 
 # Create an App
-An app consist of one or more screens. 
+An app can consist of either one or multiple screens. 
 
 :::info
-You can make one or multi screen applications, selecting multi screen application comes with the cost of e.g. having to consider what need to be shared across screen, e.g. navigation.
+You can make one or multi-screen applications. Selecting multi-screen applications requires consideration concerning what needs to be shared across screens, e.g., navigation.
 :::
 
 We typically suggest to make "One screen" apps for the main flow and supporting screens for settings etc.
 
 ## Open PowerApps Designer
-Navigate to https://make.powerapps.com/ (You might be asked to sign in) Eventually you will end up in a screen looking like this
+Navigate to https://make.powerapps.com/ (You might be asked to sign in) Eventually you will end up with a screen looking like this
 
 ![](2022-09-22-08-19-07.png)
 
 ![](2022-10-10-15-58-58.png)
+
 ## Create a Blank App
 ![](2022-09-22-08-32-40.png)
 
 Select **"Blank app"**
 
 :::warning
-Selecting "Blank app based on Dataverse" or "Blank website" require yuo (and your users) to have additional licenses 
+Selecting "Blank app based on Dataverse" or "Blank website" requires you (and your users) to have additional licenses
 :::
-
 
 
 ![](2022-09-22-08-33-49.png)
@@ -34,7 +34,7 @@ Selecting "Blank app based on Dataverse" or "Blank website" require yuo (and you
 Select **"Blank canvas app"**
 ## Name the app
 
-The name will need to be unique and will be displayed in the top bar of Office 365 .
+The name will need to be unique, and it will be displayed in the top bar of Office 365.
 ![](2022-09-22-08-36-32.png)
 
 Then click **Create**
@@ -43,13 +43,13 @@ Then click **Create**
 
 :::info First Time experience
 
-The first time you use PowerApps you will be asked to specify where you work from. Select country/region then click `Get started` 
+The first time you use PowerApps, you will be asked to specify where you work from. Select your country/region, then click `Get started`. 
 
 ![](2022-10-11-08-43-08.png)
 
 You might also get a **Welcome to PowerApps Studio** popup. 
 
-Select ``Dont't show again`` then click `Skip`
+Select ``Dont't show again``, then click `Skip`.
 
 ![](2022-10-11-09-35-07.png)
 :::
@@ -60,6 +60,6 @@ Select ``Dont't show again`` then click `Skip`
 Hit **Ctrl+S** to save your app.
 
 :::info
-PowerApps will automatically get saved every 2 minutes once you have made an initial save.
+Once you have made an initial save, PowerApps automatically saves changes every 2 minutes.
 :::
 
