@@ -2,8 +2,11 @@
 sidebar_position: 1
 ---
 
-# Recipes for PowerApps - Intro
+# Recipes for PowerApps - Introduction
 :::note
-This pages is under construction
+This page is under construction
 :::
-Let's discover **PowerApps in less than 15 minutes** then learn why you will need assistance in order to make great UX and Corporate Visual Identify compliance.
+
+Let's discover how to use **PowerApps in less than 15 minutes**! 
+
+Then learn why you will need assistance in order to make great UX and Corporate Visual Identity compliance.
