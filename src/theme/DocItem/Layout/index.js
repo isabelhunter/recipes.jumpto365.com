@@ -13,6 +13,7 @@ import DocBreadcrumbs from '@theme/DocBreadcrumbs';
 import styles from './styles.module.css';
 import Giscus from '@giscus/react';
 import { useColorMode } from '@docusaurus/theme-common';
+import KoksMate from '@site/src/components/KoksMate';
 /**
  * Decide if the toc should be rendered, on mobile or desktop viewports
  */
@@ -45,9 +46,14 @@ export default function DocItemLayout({children}) {
             <DocBreadcrumbs />
             <DocVersionBadge />
             {docTOC.mobile}
+            
             <DocItemContent>{children}</DocItemContent>
             <DocItemFooter />
-            
+            {docTOC.desktop &&
+            <div>
+            <KoksMate />
+            </div>
+            }
           </article>
           <DocItemPaginator />
           <div style={{marginTop:"50px"}}>
@@ -68,8 +74,13 @@ loading="lazy"
 /></div>
         </div>
       </div>
-      {docTOC.desktop && <div className="col col--3">{docTOC.desktop}</div>}
-      
+      {docTOC.desktop && <div className="col col--3">
+        
+              
+        {docTOC.desktop}
+        
+        </div>}
+        
 
     </div>
   );

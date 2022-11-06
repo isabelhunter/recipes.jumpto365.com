@@ -1,9 +1,8 @@
 # Contact Card
 
-![](2022-10-28-09-15-09.png)
-
-## Description
 You can use the contact card for integrating contact information into your site. The contact card is a component that can be used in different ways. You can use it to display contact information for a person or a team. You can also use it to display contact information for a company or a department.
+
+![](2022-10-28-09-15-09.png)
 
 
 ## Connectors

@@ -1,7 +1,7 @@
 ---
-sidebar_position: 399
+sidebar_position: 0
 ---
-# About
+# Chefs Tips
 Power Recipes is a collection of tips and tricks for every one working with Digital Workspaces and Power Platform. 
 ##  About this site
 Use the navigation on the left to find the information you are looking for.

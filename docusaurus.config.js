@@ -75,6 +75,7 @@ async function createConfig() {
             position: 'left',
             label: 'PowerApps',
           },
+
           {to: '/docs/kitchen', label: 'Kitchen', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -100,7 +101,7 @@ async function createConfig() {
               },
               {
                 label: 'Chefs tips',
-                to: '/docs/category/governance',
+                to: '/docs/pro-tips',
               },
               // {
               //   label: 'Hexatown',

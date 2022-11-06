@@ -29,3 +29,52 @@
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+
+
+.koksmat-button {
+  box-shadow: 5px 5px 7px 0px rgba(0,0,0,0.75);
+  position: fixed;
+  bottom: 80px;
+  right: 0px;
+  height: 100px;
+  width: 100px;
+  margin: 20px;
+  padding: 0px;
+  text-align: center;
+  line-height: 100px;
+  border-radius: 50px;
+  background-color: #0000ee;
+  color: #ffffff;
+  cursor: pointer;
+  transition: 500ms;
+}
+
+.koksmat-button:hover {
+  transition: 500ms;
+  color: #0000ee;
+  background-color: #ffffff;
+}
+
+
+.koksmat-interaction{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+
+  height: 100px;
+  width: 100px;
+  margin: 50px;
+  padding: 0px;
+  height: 80vh;
+  width: 80vw;
+  text-align: center;
+  line-height: 50px;
+  
+  background-color: #0000ee;
+  color: #ffffff;
+  cursor: pointer;
+  transition: 1500ms ease-in-out;
+  z-index: 5;
+  ;
+}

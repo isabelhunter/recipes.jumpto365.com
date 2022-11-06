@@ -1,8 +1,8 @@
 {
-  "label": "Governance",
-  "position": 2,
+  "label": "Policies",
+  "position": 60,
   "link": {
     "type": "generated-index",
-    "description": "Subjects for governing your solution"
+    "description": "Areas supporting governing your solution"
   }
 }
