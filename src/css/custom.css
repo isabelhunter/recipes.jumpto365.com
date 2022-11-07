@@ -42,32 +42,34 @@
   margin: 20px;
   padding: 0px;
   text-align: center;
-  line-height: 100px;
+  line-height: 90px;
   border-radius: 50px;
   background-color: #0000ee;
   color: #ffffff;
   cursor: pointer;
   transition: 500ms;
+  border: 5px dashed #ff0000;
 }
 
 .koksmat-button:hover {
   transition: 500ms;
-  color: #0000ee;
+  color: #0000ee  ease-in-out;
   background-color: #ffffff;
+  border: 5px dashed #ff0000;
 }
 
 
 .koksmat-interaction{
   position: fixed;
   top: 0px;
-  left: 0px;
-
-  height: 100px;
-  width: 100px;
-  margin: 50px;
+  right: 0px;
+  height: calc( 100vh - 260px);
+  
+  width: 300px;
+  margin: 20px;
   padding: 0px;
-  height: 80vh;
-  width: 80vw;
+  
+  width: 300px;
   text-align: center;
   line-height: 50px;
   

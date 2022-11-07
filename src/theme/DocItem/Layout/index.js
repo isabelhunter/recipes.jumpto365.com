@@ -51,7 +51,7 @@ export default function DocItemLayout({children}) {
             <DocItemFooter />
             {docTOC.desktop &&
             <div>
-            <KoksMate />
+            
             </div>
             }
           </article>

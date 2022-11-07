@@ -11,12 +11,12 @@ Objective is to create a solution which can take Word document and treat that as
 
 ## Ingredients
 
-| Ingredient | Description |
-| --- | --- | 
-| Word document | Word document with Quick Parts - the Master|
-| SharePoint Document Library | Document Library to store the contract and control the metadata (variable) |
-| Power App | Power App to collect data |
-| Power Automate | Power Automate to create the contract |
+| Icon | Ingredient | Description |
+| --- | --- | ---|
+|<img style={{width:"64px"}} src="https://jumpto365.com/resources/images/Icons/Word%20New.png"/> | Word document | Word document with Quick Parts - the Master|
+|<img style={{width:"64px"}} src="https://jumpto365.com/resources/images/Icons/SharePoint%20New.png"/> | SharePoint Document Library | Document Library to store the contract and control the metadata (variable) |
+|<img style={{width:"64px"}} src="https://blob.jumpto365.com/images/default/h/e/x/hexatown.com/m/matt@hexatown.com/2022/10/Power%20Apps.png-20221023-102329.png"/> | Power App | Power App to collect data |
+|<img style={{width:"64px"}} src="https://blob.jumpto365.com/images/default/h/e/x/hexatown.com/m/matt@hexatown.com/2022/10/Power%20Automate.png-20221023-102255.png"/> | Power Automate | Power Automate to create the contract |
 
 ## Word document
 
